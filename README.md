@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+[Wanna go to my website?](https://mertbakir.gitlab.io) It's work-in-progress.
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0dg63o2f6zgr2tvzigt2ofuxk&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=0dg63o2f6zgr2tvzigt2ofuxk&redirect=true)
+
+_Wonder have I did the spotify thingy? [I didn't.](https://github.com/kittinan/spotify-github-profile)_
 
 <!--
 **mertbakir/mertbakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
