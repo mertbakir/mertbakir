@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-[Wanna go to my website?](https://mertbakir.gitlab.io) It's work-in-progress.
+[Wanna go to my website?](https://mertbakir.gitlab.io) It's work-in-progress. I'm currently migrating to hugo. Because it's faster, doesn't have dependency chaos and I'm thinking about publishing Rmarkdown files using blogdown.
+
+You can reach me at [/in/mertbakir](https://www.linkedin.com/in/mertbakir/).
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0dg63o2f6zgr2tvzigt2ofuxk&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=0dg63o2f6zgr2tvzigt2ofuxk&redirect=true)
 
