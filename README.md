@@ -6,7 +6,7 @@ You can reach me at [/in/mertbakir](https://www.linkedin.com/in/mertbakir/).
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0dg63o2f6zgr2tvzigt2ofuxk&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=0dg63o2f6zgr2tvzigt2ofuxk&redirect=true)
 
-_Wonder have I did the spotify thingy? [I didn't.](https://github.com/kittinan/spotify-github-profile)_
+_Wonder how I did the spotify thingy? [I didn't.](https://github.com/kittinan/spotify-github-profile)_
 
 <!--
 **mertbakir/mertbakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
