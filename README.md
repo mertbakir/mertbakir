@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-[Wanna go to my website?](https://mertbakir.gitlab.io) It's work-in-progress. I'm currently migrating to hugo. Because it's faster, doesn't have dependency chaos and I'm thinking about publishing Rmarkdown files using blogdown.
+[Check out my website?](https://mertbakir.gitlab.io)
 
 You can reach me at [/in/mertbakir](https://www.linkedin.com/in/mertbakir/).
 
