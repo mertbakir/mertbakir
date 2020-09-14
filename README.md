@@ -1,8 +1,7 @@
 ### Hello there 👋
 
 [Check out my website?](https://mertbakir.gitlab.io)
-
-You can reach me at [/in/mertbakir](https://www.linkedin.com/in/mertbakir/).
+Reach me on [/in/mertbakir](https://www.linkedin.com/in/mertbakir/).
 
 <!--
 **mertbakir/mertbakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
