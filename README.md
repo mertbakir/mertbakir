@@ -1,4 +1,4 @@
-### Hello there 👋
+<h1 align="center">Hi 👋, I'm Mert</h1>
 
 * [Check out my website](https://mertbakir.gitlab.io)
 * Reach me on [/in/mertbakir](https://www.linkedin.com/in/mertbakir/)
